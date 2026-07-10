@@ -1,4 +1,4 @@
-Professional RAG Document Q&A System
+BUNCH OF SOFTWARE PROJECTS THAT I DID!! check it out:
 ======================================
 A production-ready Retrieval-Augmented Generation chatbot with:
 - Multi-document PDF processing with OCR support
