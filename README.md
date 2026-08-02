@@ -8,4 +8,4 @@ A production-ready Retrieval-Augmented Generation chatbot with:
 - Source citations and confidence scores
 - Modern Gradio UI
 
-Did as part of my with Outamation.
+Did as part of my externship with Outamation.
