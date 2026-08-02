@@ -1,4 +1,4 @@
-BUNCH OF SOFTWARE PROJECTS THAT I DID!! check it out:
+List OF SOFTWARE PROJECTS THAT I DID!! check it out: (UNFINISHED)
 ======================================
 A production-ready Retrieval-Augmented Generation chatbot with:
 - Multi-document PDF processing with OCR support
